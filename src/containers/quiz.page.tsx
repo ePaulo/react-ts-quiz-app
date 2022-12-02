@@ -1,5 +1,3 @@
-import './quiz.styles.scss'
-
 const QuizPage = () => (
   <div className='quiz-page'>
     <h1>Quiz Page</h1>

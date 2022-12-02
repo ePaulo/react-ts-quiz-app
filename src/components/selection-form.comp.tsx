@@ -1,5 +1,3 @@
-import './selection-form.styles.scss'
-
 const SelectionForm = () => (
   <div className='selection-form'>
     <h1>Selection Form</h1>
