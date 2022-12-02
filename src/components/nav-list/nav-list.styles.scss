@@ -1,0 +1,13 @@
+.component__nav-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  padding: 0 25px;
+  background-color: #242424;
+
+  .active {
+    color: #fff;
+  }
+}
